@@ -1,4 +1,4 @@
-# ĐIỂM DANH SỬ DỤNG NHÂN DIỆN GƯƠNG MẶT
+# ĐIỂM DANH SỬ DỤNG NHẬN DIỆN KHUÔN MẶT
 ## Thành viên
 * Trần Hưng Quốc Khải [lioaslan](https://github.com//lioaslan)
 * Hoàng Ngọc Khánh Quỳnh [khanhquynh133](https://github.com/khanhquynh133)
