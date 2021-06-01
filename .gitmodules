@@ -1,0 +1,12 @@
+[submodule "fe"]
+	path = fe
+	url = git@github.com:PBL5/Web-FE.git
+	branch = main
+[submodule "api"]
+	path = api
+	url = git@github.com:PBL5/api.git
+	branch = main
+[submodule "rasp"]
+	path = rasp
+	url = git@github.com:PBL5/rasp3.git
+	branch = main
